@@ -14,11 +14,9 @@ It calculates your Body Mass Index (BMI), shows your category, and gives you **f
 - ✅ WHO standard BMI category reference  
 - ✅ Fully deployed on **Streamlit Cloud**  
 
----
 
-## ⚙️ Installation & Usage
-Clone the repository:
-```bash
+
+
 git clone https://github.com/your-username/bmi-calculator.git
 cd bmi-calculator
 
@@ -41,4 +39,5 @@ Feel free to fork this repo and submit PRs with new ideas (animations, themes, b
 📧 Contact
 
 👤 Athar Sharma
+
 📩 Email: atharsharma86@gmail.com
